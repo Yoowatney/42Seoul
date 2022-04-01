@@ -1,0 +1,24 @@
+[submodule "minishell"]
+	path = minishell
+	url = https://github.com/Yoowatney/minishell
+[submodule "minitalk"]
+	path = minitalk
+	url = https://github.com/Yoowatney/minitalk
+[submodule "ft_printf"]
+	path = ft_printf
+	url = https://github.com/Yoowatney/ft_printf
+[submodule "libft"]
+	path = libft
+	url = https://github.com/Yoowatney/0_circle
+[submodule "fractol"]
+	path = fractol
+	url = https://github.com/Yoowatney/fractol
+[submodule "push_swap"]
+	path = push_swap
+	url = https://github.com/Yoowatney/push_swap
+[submodule "get_next_line"]
+	path = get_next_line
+	url = https://github.com/Yoowatney/get_next_line
+[submodule "philosopher"]
+	path = philosopher
+	url = https://github.com/Yoowatney/philosopher
